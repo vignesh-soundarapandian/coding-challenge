@@ -1,0 +1,14 @@
+{
+  "name": "coding-challenge",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.35.1"
+  },
+  "description": ""
+}
