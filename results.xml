@@ -1,6 +1,6 @@
-<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="8.434213">
-<testsuite name="placeBets.test.ts" timestamp="2024-03-18T10:00:53.626Z" hostname="chromium" tests="1" failures="0" skipped="0" time="6.883" errors="0">
-<testcase name="Place bets › Place 2 bets for the racecard" classname="placeBets.test.ts" time="6.883">
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="7.334890000000001">
+<testsuite name="placeBets.test.ts" timestamp="2024-03-18T10:47:59.058Z" hostname="chromium" tests="1" failures="0" skipped="0" time="6.296" errors="0">
+<testcase name="Place bets › Place 2 bets for the racecard" classname="placeBets.test.ts" time="6.296">
 </testcase>
 </testsuite>
 </testsuites>
